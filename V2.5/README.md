@@ -1,4 +1,4 @@
-#### This version is an update for V2.0, there is no change on gameplay but I added 3 board type.
+#### This version is an update for V2.0, there is no change on gameplay but I added 3 board type and game save/load operations.
 |Board types    |Description |
 |:-----------:|:-|
 | Vector | The Board is represented using an STL vector of STL vectors. |
